@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: I Lost The Game
+title: i lost the game
 
 # Your name to show in the footer
 author: Dylan Chan
@@ -22,8 +22,9 @@ author: Dylan Chan
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - CS 103 Glow: "https://glow.williams.edu/courses/3619553"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    # TODO: add handy resources for students
   #Author's home: "https://deanattali.com"
 
 ################
