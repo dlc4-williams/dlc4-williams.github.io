@@ -4,7 +4,7 @@ title: Introduction
 subtitle: Get to know me!
 gh-repo: dlc4-williams/dlc4-williams.github.io
 gh-badge: [star, fork, follow]
-tags: [dylan talks]
+tags: [dylan talks, writing assignment]
 comments: true
 ---
 
