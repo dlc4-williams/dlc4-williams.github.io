@@ -1,78 +1,31 @@
 ---
 layout: post
 title: Introduction
-subtitle: Get to know me!
+subtitle: Who is Dylan, anyway?
 gh-repo: dlc4-williams/dlc4-williams.github.io
 gh-badge: [star, fork, follow]
 tags: [dylan talks, writing assignment]
 comments: true
 ---
+Hello world! I’m Dylan Chan, they/them pronouns. I’m a Senior studying Computer Science. 
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+# Experience
 
-**Here is some bold text**
+## Programming
+I’ve been programming for about 3 years now, and I can write C, Java, Javascript, and a little bit of Python. 
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+## Sewing
+I got good at hand-sewing my sophomore year, when I took a quilting art class here! This is the quilt that came out of that class:
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+I do some other fiber arts as well:
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+# What I hope to learning
+I don’t know much about circuits, and I’ve never tried to integrate anything electronic into my fiberarts projects, so I’m super excited to learn how to do that!
 
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+# Boring fact
+The boringest fact I can think of about me is that I eat the same breakfast almost every day: a bowl of oatmeal with a tiny bit of brown sugar.
