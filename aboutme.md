@@ -14,5 +14,5 @@ This class is the _coolest_ way to get non-CS people comfortable with computer s
 here are some pictures of my dog Andie!
 
 ![Andie, a red dog](https://dlc4-williams.github.io/assets/img/andie_1){: .mx-auto.d-block :}
-![Andie, a red dog, licking a large yogurt container](https://dlc4-williams.github.io/assets/img/andie_2){: .mx-auto.d-block :}
+![Andie, a red dog, licking a large yogurt container](https://dlc4-williams.github.io/assets/img/andie_2 "test title"){: .mx-auto.d-block :}
 ![Andie, a red dog, lying on the grass](https://dlc4-williams.github.io/assets/img/andie_3){: .mx-auto.d-block :}
