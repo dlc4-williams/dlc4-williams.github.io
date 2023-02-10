@@ -17,7 +17,7 @@ I’ve been programming for about 3 years now, and I can write C, Java, Javascri
 ## Sewing
 I got good at hand-sewing my sophomore year, when I took a quilting art class here! This is the quilt that came out of that class:
 
-![improvizational queen-sized quilt (on a twin-sized bed)](https://dlc4-williams.github.io/assets/img/quilt.jpeg)
+![improvizational queen-sized quilt (on a twin-sized bed)](https://dlc4-williams.github.io/assets/img/quilt.png)
 
 I do some other fiber arts as well:
 
