@@ -21,8 +21,10 @@ I got good at hand-sewing my sophomore year, when I took a quilting art class he
 
 I do some other fiber arts as well:
 
+crochet:
 ![D&D dice bag made of crochet dragon scales](https://dlc4-williams.github.io/assets/img/dice_bag.png)
 
+knitting:
 ![a red fingerless knit glove, patterned with dragon scales](https://dlc4-williams.github.io/assets/img/glove.png)
 
 
