@@ -4,7 +4,7 @@ title: About me
 subtitle: Welcome!
 ---
 
-Hi! I'm Dylan, one of your TAs. I use they/them pronouns. 
+Hi! I'm Dylan, one of your TAs. I use they/them pronouns. I'm a Senior CS major from Kansas City, Missouri.
 
 ### Why I'm TA'ing eTextiles
 
